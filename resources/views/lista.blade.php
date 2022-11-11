@@ -6,68 +6,68 @@
     <meta name="author" content="(cc) 3con14" />
     <title>Listas Ordenadas y desordenadas</title>
 </head>
+
 <body>
     <h1>Listas de los alumnos</h1>
     <ol>
-        <li>alumn 1</li>
-        <li>alumno 2</li>
-        <li>alumno 3</li>
-        <li>alumno 4</li>
-        <li>alumno 5</li>
+        <li>alumno: gamaliel@mundo.com</li>
+        <li>alumno: juan@malos.com</li>
+        <li>alumno: brenda@mundo.com</li>
+        <li>alumno: leon@peru.com</li>
+        <li>alumno: andres@peru.com</li>
     </ol>
     <h1>Lista de los alumnos registrados</h1>
-    <ul>
-        <li>Lunes
-            <ol>
-                <li>alumno 1</li>
+   
+        <li>datos del alumno 1
+                <li>gamaliel</li>
                     <ul type="square">
-                        <li>presente </li>
+                        <li>contraseña: 123456789</li>
                         <li>registrado</li>
                     </ul>
+                </li> 
+    
+
+        </li>
+        <li>datos del alumno 2
+                <li>juan</li>
+                    <ul type="square">
+                        <li>contraseña: 12345678</li>
+                        <li>registrado</li>
+                    </ul>
+                </li>    
                 
-            </ol>
+                
         </li>
-        <li>Martes
-            <ol>
-                <li>alumno 2</li>
+        <li>datos del alumno 3
+                <li>brenda</li>
                     <ul type="square">
-                        <li>presente </li>
+                        <li>contraseña:brenda2000</li>
                         <li>registrado</li>
                     </ul>
                 </li>    
-            </ol>        
+              
+                
         </li>
-        <li>miercoles
-            <ol>
-                <li>alumno 3</li>
+        <li>datos del alumno 4
+                <li>leon</li>
                     <ul type="square">
-                        <li>presente </li>
+                        <li>contraseña: leon2000</li>
                         <li>registrado</li>
                     </ul>
                 </li>    
-            </ol>        
+             
+                
         </li>
-        <li>jueves
-            <ol>
-                <li>alumno 4</li>
+        <li>datos del alumno 5
+                <li>andres</li>
                     <ul type="square">
-                        <li>presente </li>
+                        <li>contraseña: andres2000 </li>
                         <li>registrado</li>
                     </ul>
                 </li>    
-            </ol>        
+        
+                
         </li>
-        <li>viernes
-            <ol>
-                <li>alumno 5</li>
-                    <ul type="square">
-                        <li>presente </li>
-                        <li>registrado</li>
-                    </ul>
-                </li>    
-            </ol>        
-        </li>
-    </ul>
+    
 </body>
 </html>
-
